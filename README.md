@@ -136,12 +136,11 @@ Thanks to:
 
 **Mouhib Farhat**
 Student | AI & Data Science Enthusiast
-IEEE CS Chapter Project Manager
+ CS Chapter IEEE SBC Project Manager
 
 Connect with me:
 
-* [LinkedIn](https://www.linkedin.com/in/yourprofile)
-* [GitHub](https://github.com/yourusername)
+* [LinkedIn](https://www.linkedin.com/in/mouhib-farhat)
 
 ---
 
