@@ -1,0 +1,35 @@
+Here’s a clean `requirements.txt` you can use for your project:
+
+```txt
+transformers==4.41.1
+evaluate==0.4.1
+pandas==2.2.2
+matplotlib==3.9.0
+seaborn==0.13.2
+scikit-learn==1.5.0
+gradio==4.29.0
+torch==2.3.0
+```
+
+### Notes:
+
+✅ Versions are chosen to match latest stable & compatible versions as of June 2025.
+✅ If you're using an older or newer environment, `pip install` will resolve dependencies anyway.
+✅ You can add:
+
+```txt
+python-dotenv>=1.0.0  # optional if you want to manage API keys or env variables in the future
+```
+
+---
+
+### Usage in GitHub:
+
+1. Place this file at the root of your repo → `requirements.txt`
+2. In your README under "How to Run", we already have:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
