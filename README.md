@@ -1,5 +1,3 @@
-# Automotive-Insights-AI-Dashboard
-
 
 # Automotive Insights AI Dashboard
 
