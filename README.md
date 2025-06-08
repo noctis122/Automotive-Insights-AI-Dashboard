@@ -47,6 +47,8 @@ Built using:
 ├── README.md                       # Project documentation
 └── car_review_analysis.log         # Log file
 ```
+# Confusion matrix for a simple:
+![image](https://github.com/user-attachments/assets/cae0cd39-d8a5-4955-aada-835810f037ed)
 
 ---
 
